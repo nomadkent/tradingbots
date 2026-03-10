@@ -1,1 +1,6 @@
-
+requests
+python-dotenv
+feedparser
+ntplib
+selenium
+webdriver-manager
